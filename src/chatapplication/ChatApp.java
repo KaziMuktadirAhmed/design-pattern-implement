@@ -5,16 +5,11 @@
  */
 package chatapplication;
 
-import java.awt.Color;
-
-
-
 /**
  *
  * @author Pinder
  */
 public class ChatApp extends javax.swing.JFrame {
- static  String name;
     /**
      * Creates new form ChatApp
      */
