@@ -9,7 +9,6 @@ import static chatapplication.MulticastClient.name;
 import static chatapplication.MulticastClient.s;
 import java.net.*;
 import java.io.*;
-import java.util.*;
 import javax.swing.JOptionPane;
 
 
